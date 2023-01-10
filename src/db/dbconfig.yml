@@ -1,0 +1,6 @@
+development:
+    dialect: mysql 
+    datasource: user1:secret@tcp(db:3306)/go_local?parseTime=true
+    dir: ./migrations/
+
+     

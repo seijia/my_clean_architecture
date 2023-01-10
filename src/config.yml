@@ -1,0 +1,21 @@
+
+database:
+  user: user1
+  password: secret
+  net: tcp
+  host: db
+  dbname: go_local
+  params:
+    parseTime: "true"
+
+
+redis:
+  host: redis
+  port: 6379
+
+logger:
+  logLevel: DEBUG
+  logFile: output.log
+
+server:
+  address: 8080
