@@ -4,13 +4,11 @@ go 1.18
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
-	github.com/antonfisher/nested-logrus-formatter v1.3.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/joho/godotenv v1.4.0
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/gommon v0.3.1
-	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.11.0
 	gorm.io/driver/mysql v1.3.3
 	gorm.io/gorm v1.23.5
